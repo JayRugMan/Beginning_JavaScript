@@ -8,6 +8,14 @@ My JavaScript beginnings
 
 ## Vocabulary
 
+> **Operator**  
+> A character that performs a task in our code. Arithmetic operators include:  
+> - Add `+`  
+> - Subtract `-`  
+> - Multiply `*`  
+> - Divide `/`  
+> - Remainder `%`  
+
 ### Data Types
 
 Classifications we gie to the different kinds of data that we use in programming. In JavaScript, ther are eight fundamental data types:L
