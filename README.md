@@ -16,6 +16,7 @@ My JavaScript beginnings
 > - Divide `/`  
 > - Remainder `%`  
 > - Dot `.`  
+___
 
 ### Data Types
 
@@ -30,7 +31,8 @@ ___
 > `1234567890123456n`
 ___
 > **String**  
-> Any grouping of characters on your keyboard (letters, numbers, spaces, symobols, etc...) surrounded by single quotes: `' ... '` or double quotes `" ... "`, though we prefer single quotes. Some people like to think of string as a fancy word for text.
+> Any grouping of characters on your keyboard (letters, numbers, spaces, symobols, etc...) surrounded by single quotes: `' ... '` or double quotes `" ... "`, though we prefer single quotes. Some people like to think of string as a fancy word for text.  
+> [String Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
 ___
 > **Boolean**  
 > This data type only has two possible values-- either `true` or `false` (without quotes). It's helpful to think of booleans as on or off switches or as the answers to a "yes" or "no" question.
