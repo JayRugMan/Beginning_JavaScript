@@ -15,6 +15,7 @@ My JavaScript beginnings
 > - Multiply `*`  
 > - Divide `/`  
 > - Remainder `%`  
+> - Dot `.`  
 
 ### Data Types
 
