@@ -6,6 +6,8 @@ My JavaScript beginnings
 
 [Course on Codecademy](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
 
+[JavaScript Keywords](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#keywords) (Don't use as variable names)
+
 ## Vocabulary
 
 > **Operator**  
