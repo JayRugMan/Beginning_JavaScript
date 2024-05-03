@@ -12,12 +12,14 @@ My JavaScript beginnings
 
 > **Operator**  
 > A character that performs a task in our code. Arithmetic operators include:  
+>
 > - Add `+`  
 > - Subtract `-`  
 > - Multiply `*`  
 > - Divide `/`  
 > - Remainder `%`  
 > - Dot `.`  
+
 ___
 
 ### Data Types
@@ -51,3 +53,14 @@ ___
 > **Objects**
 > Collection of related data.
 ___
+> **Truthy** and **Falsy** Values  
+> A value that evaluates as either `true` or `false` not becase the value itself is true/false, but rather because it's _nature_ is defined as either "truthy" or "falsy".  
+> IE if `let someString = 'some value';` makes `someString` "truthy". When using `if (someString) {...}`, this evaluates as `true` because `someString` has a value.  
+> Keep in mind that some values are "falsy," like `0` - so, `let someNumber = 0;` ... `if (someNumber) {...}` will evaluate as `false`.  
+> Examples of values considered "falsy":  
+>
+> - `0`  
+> - Empty strings like `""` or `''`  
+> - `null` which represents when there is no value at all  
+> - 'undefined` which represents when a declared variable lacks a value  
+> - `NaN`, or Not a Number  
