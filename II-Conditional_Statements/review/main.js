@@ -14,7 +14,7 @@ if (temp < 50) {
 } else if (temp < 100) {
   (language === 'English') ? implement = 'a bathing suit' : implement = 'traje de baño';
 } else if (temp >= 100) {
-  (language === 'English') ? implement = 'nothing but sunscreen' : implement = 'nada más que protector solar';
+  (language === 'English') ? implement = 'your sunscreen' : implement = 'protector solar';
 }
 
 switch(language) {
@@ -22,10 +22,10 @@ switch(language) {
     output = `Wear ${implement}.`;
     break;
   case 'Spanish':
-    (temp >= 100) ? output = `No usar ${implement}.` : output = `Usar ${implement}.`;
+    output = `Usar ${implement}.`;
     break;
   default:
-    output = 'Ah, just go naked'
+    output = 'Just don\'t go naked!'
     break;
 }
 
