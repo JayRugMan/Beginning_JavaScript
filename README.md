@@ -63,4 +63,9 @@ ___
 > - Empty strings like `""` or `''`  
 > - `null` which represents when there is no value at all  
 > - 'undefined` which represents when a declared variable lacks a value  
-> - `NaN`, or Not a Number  
+> - `NaN`, or Not a Number
+>
+___
+> **Functions**  
+> A function is a reusable block of code that groups together a sequence of statements to perform a specific task.  
+> [More on JavaScript functions](https://www.codecademy.com/resources/docs/javascript/functions)
