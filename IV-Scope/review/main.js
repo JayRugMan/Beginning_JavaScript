@@ -1,0 +1,3 @@
+/*
+See readme for a review on scope stuff
+*/
