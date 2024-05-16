@@ -70,6 +70,30 @@ ___
 > A function is a reusable block of code that groups together a sequence of statements to perform a specific task.  
 > [More on JavaScript functions](https://www.codecademy.com/resources/docs/javascript/functions)
 ___
+
+### Scope Stuff
+
 > **Scope**  
 > defines where [variables](https://www.codecademy.com/resources/docs/javascript/variables) can be accessed or referenced. While some variables can be accessed from anywhere within a program, other variables may only be available in a specific context.  
+___
+> **Blocks**  
+> are [statements](https://www.codecademy.com/resources/docs/javascript/statements) that exist within curly braces `{}`.  
+___
+> **Global Scope**  
+> Global scope refers to the context within which variables are accessible to every part of the program.  
+___
+> **Global Variables**  
+> Global variables are variables that exist within global scope.
+___
+> **Block Scope**  
+> Block scope refers to the context within which variables are accessible only within the block they are defined.  
+___
+> **Local variables**  
+> Local variables are variables that exist within block scope.  
+___
+> **Global Namespace**  
+> Global namespace is the space in our code that contains globally scoped information.  
+___
+> **Scope Pollution**
+> Scope pollution is when too many variables exist in a namespace or variable names are reused.  
 ___
