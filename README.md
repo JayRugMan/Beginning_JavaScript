@@ -69,3 +69,7 @@ ___
 > **Functions**  
 > A function is a reusable block of code that groups together a sequence of statements to perform a specific task.  
 > [More on JavaScript functions](https://www.codecademy.com/resources/docs/javascript/functions)
+___
+> **Scope**  
+> defines where [variables](https://www.codecademy.com/resources/docs/javascript/variables) can be accessed or referenced. While some variables can be accessed from anywhere within a program, other variables may only be available in a specific context.  
+___
