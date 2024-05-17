@@ -107,4 +107,14 @@ ___
 > **Methods**  
 > In JavaScript methods are object properties containing a function definition. Within the function definition, `this` can be used to refer to the containing object as long as the function is defined within the object.  
 > [More on JavaScript Methods here](https://www.codecademy.com/resources/docs/javascript/methods)  
+>  
+> - [`.push()`](https://www.codecademy.com/resources/docs/javascript/arrays/push) - method that adds one or more elements to the end of an array and returns the new length.  
+> - [`.pop()`](.pop()) - method that removes the last element of an array, decrements the array length, and returns the value that it removed.  
+> - [`.join()`](https://www.codecademy.com/resources/docs/javascript/arrays/join) - method that returns a string representation of array elements concatenated together.  
+> - [`.slice()`](https://www.codecademy.com/resources/docs/javascript/arrays/slice) - method that returns a partial copy of an array, otherwise known as a shallow copy, without altering the original array.  
+> - [`.splice()`](https://www.codecademy.com/resources/docs/javascript/arrays/splice) - method that modifies an array in place by inserting, removing, and/or replacing array elements then returning an array of removed elements.  
+> - [`.shift()`](https://www.codecademy.com/resources/docs/javascript/arrays/shift) - method that emoves and returns the first element of the array. All subsequent elements will shift down one place.  
+> - [`.unshift()`](https://www.codecademy.com/resources/docs/javascript/arrays/unshift) - method that adds one or more elements to beginning of array and returns new length.  
+> - [`.concat()`](https://www.codecademy.com/resources/docs/javascript/arrays/concat) - method that merges, or concatenates, two or more arrays.  
+>  
 ___
