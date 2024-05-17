@@ -98,8 +98,12 @@ ___
 > Scope pollution is when too many variables exist in a namespace or variable names are reused.  
 ___
 
-### Methods
+### Arrays
 
+> **Arrays**  
+> An `array` is a list of ordered, stored data. It can hold items that are of any data type (e.g. string, boolean, number, etc.) and it can hold different data types together in a single array.  
+> [More on JavaScript Arrays here](array)  
+___
 > **Methods**  
 > In JavaScript methods are object properties containing a function definition. Within the function definition, `this` can be used to refer to the containing object as long as the function is defined within the object.  
 > [More on JavaScript Methods here](https://www.codecademy.com/resources/docs/javascript/methods)  
