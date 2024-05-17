@@ -116,5 +116,6 @@ ___
 > - [`.shift()`](https://www.codecademy.com/resources/docs/javascript/arrays/shift) - method that emoves and returns the first element of the array. All subsequent elements will shift down one place.  
 > - [`.unshift()`](https://www.codecademy.com/resources/docs/javascript/arrays/unshift) - method that adds one or more elements to beginning of array and returns new length.  
 > - [`.concat()`](https://www.codecademy.com/resources/docs/javascript/arrays/concat) - method that merges, or concatenates, two or more arrays.  
+> - [`.indexOf()`](https://www.codecademy.com/resources/docs/javascript/arrays/indexOf) - method that returns the first index at which an element can be found. Returns -1 if the element is not found.  
 >  
 ___
