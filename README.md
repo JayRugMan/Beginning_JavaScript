@@ -107,7 +107,7 @@ ___
 > **Methods**  
 > In JavaScript methods are object properties containing a function definition. Within the function definition, `this` can be used to refer to the containing object as long as the function is defined within the object.  
 > [More on JavaScript Methods here](https://www.codecademy.com/resources/docs/javascript/methods)  
->  
+>
 > - [`.push()`](https://www.codecademy.com/resources/docs/javascript/arrays/push) - method that adds one or more elements to the end of an array and returns the new length.  
 > - [`.pop()`](.pop()) - method that removes the last element of an array, decrements the array length, and returns the value that it removed.  
 > - [`.join()`](https://www.codecademy.com/resources/docs/javascript/arrays/join) - method that returns a string representation of array elements concatenated together.  
