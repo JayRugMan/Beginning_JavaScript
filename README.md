@@ -98,11 +98,10 @@ ___
 > Scope pollution is when too many variables exist in a namespace or variable names are reused.  
 ___
 
-### Arrays
+### Arrays ([see more](https://www.codecademy.com/resources/docs/javascript/arrays))
 
 > **Arrays**  
 > An `array` is a list of ordered, stored data. It can hold items that are of any data type (e.g. string, boolean, number, etc.) and it can hold different data types together in a single array.  
-> [More on JavaScript Arrays here](array)  
 ___
 > **Methods**  
 > In JavaScript methods are object properties containing a function definition. Within the function definition, `this` can be used to refer to the containing object as long as the function is defined within the object.  
@@ -118,4 +117,16 @@ ___
 > - [`.concat()`](https://www.codecademy.com/resources/docs/javascript/arrays/concat) - method that merges, or concatenates, two or more arrays.  
 > - [`.indexOf()`](https://www.codecademy.com/resources/docs/javascript/arrays/indexOf) - method that returns the first index at which an element can be found. Returns -1 if the element is not found.  
 >  
+___
+
+### Loops ([see more](https://www.codecademy.com/resources/docs/javascript/loops))
+
+> **Loops**
+> A programming tool that is used to repeat a set of instructions.  
+___
+> **Iterate**  
+> A generic term that means “to repeat” in the context of loops.  
+___
+> **Stopping Condition**
+> A loop will continue to iterate until a specified condition, commonly known as a `stopping condition`, is met.  
 ___
