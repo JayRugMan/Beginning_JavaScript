@@ -133,3 +133,6 @@ ___
 > **Nested Loops**  
 > A loop running inside another loop.
 ___
+> **Break**  
+> Within a loop, the `break` keyword may be used to exit the loop immediately, continuing execution after the loop body.  
+___
