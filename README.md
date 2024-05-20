@@ -130,3 +130,6 @@ ___
 > **Stopping Condition**  
 > A loop will continue to iterate until a specified condition, commonly known as a `stopping condition`, is met.  
 ___
+> **Nested Loops**  
+> A loop running inside another loop.
+___
