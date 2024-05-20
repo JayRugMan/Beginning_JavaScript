@@ -121,12 +121,12 @@ ___
 
 ### Loops ([see more](https://www.codecademy.com/resources/docs/javascript/loops))
 
-> **Loops**
+> **Loops**  
 > A programming tool that is used to repeat a set of instructions.  
 ___
 > **Iterate**  
 > A generic term that means “to repeat” in the context of loops.  
 ___
-> **Stopping Condition**
+> **Stopping Condition**  
 > A loop will continue to iterate until a specified condition, commonly known as a `stopping condition`, is met.  
 ___
