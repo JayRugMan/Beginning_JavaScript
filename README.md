@@ -136,3 +136,9 @@ ___
 > **Break**  
 > Within a loop, the `break` keyword may be used to exit the loop immediately, continuing execution after the loop body.  
 ___
+
+### Iterators ([see more](https://www.codecademy.com/resources/docs/javascript/iterators))
+
+> **Iterators**
+> `Iterators` are used to loop over a group of data members or a collection.  
+> An iterator is an object that implements the iteration protocols. Many built-in data types (`strings`, `arrays`, `maps`, `sets`, etc.) have an iterator property that make them iterable.
