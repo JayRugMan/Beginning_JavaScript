@@ -4,3 +4,36 @@ let storyWords = story.split(' ');
 let unnecessaryWord = 'literally';
 let misspelledWord = 'beautifull';
 let badWord = 'freaking';
+
+//JH console.log(storyWords);
+
+// Set up count
+let count = 0;
+
+// Count words in story words
+storyWords.forEach(word => count++);
+
+// Log count to console
+//JH console.log(count);
+
+// Cut out unnecessary words
+storyWords = storyWords.filter(word => word !== unnecessaryWord && word);
+// Correct the spelling of 'beautiful'
+storyWords = storyWords.map(word => word === misspelledWord ? 'beautiful' : word);
+
+// Find the index of the "bad word" and log it to the console
+let badWordIndex = storyWords.findIndex(word => word === badWord);
+//JH console.log(badWordIndex);
+// Replace the bad word by index assignment
+storyWords[badWordIndex] = 'really';
+
+// Check that length of each word is 10 or less characters
+//JH let lengthCheck = storyWords.every(word => word.length <= 10);
+//JH console.log(lengthCheck);
+
+// Which word(s) is/are more than 10 characters long?
+//JH storyWords.forEach(word => word.length > 10 && console.log(word));
+// Now replace it
+storyWords = storyWords.map(word => word === 'breathtaking' ? 'stunning' : word)
+
+console.log(storyWords.join(' '));
