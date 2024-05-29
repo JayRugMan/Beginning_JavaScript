@@ -165,6 +165,9 @@ ___
 > ```
 >
 ___
-> **Methods**  
-> In JavaScript methods are object properties containing a function definition. Within the function definition, `this` can be used to refer to the containing object as long as the function is defined within the object.  
+> **Object Property**  
+> What an object has/is
+___
+> **Object Methods** (See `Method` definition above for more details)  
+> What an object can do  
 ___
