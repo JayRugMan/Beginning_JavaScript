@@ -142,3 +142,26 @@ ___
 > **Iterators**
 > `Iterators` are used to loop over a group of data members or a collection.  
 > An iterator is an object that implements the iteration protocols. Many built-in data types (`strings`, `arrays`, `maps`, `sets`, etc.) have an iterator property that make them iterable.
+___
+
+### Objects ([see more](https://www.codecademy.com/resources/docs/javascript/objects))
+
+> **Objects**  
+> A JavaScript `object` is a non-primitive data type that can assume the properties and behaviors required for a given programming need. An object can be created or defined with an object literal:  
+>
+> ```javascript
+> const person = {firstName: 'Elizabeth', lastName: 'Harmon', age: 22, eyeColor: 'Hazel'};
+> ```
+>
+> Spaces and line breaks are not important. An object definition can span multiple lines:  
+>
+> ```javascript
+> const person = {
+>   firstName: 'Elizabeth',
+>   lastName: 'Harmon',
+>   age: 22,
+>   eyeColor: 'Hazel',
+> };
+> ```
+>
+___
