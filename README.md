@@ -10,7 +10,7 @@ My JavaScript beginnings
 
 ## Vocabulary
 
-> **Operator**  
+> **Operators**  
 > A character that performs a task in our code. Arithmetic operators include:  
 >
 > - Add `+`  
