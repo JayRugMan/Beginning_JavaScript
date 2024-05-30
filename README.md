@@ -171,3 +171,6 @@ ___
 > **Object Methods** (See `Method` definition above for more details)  
 > What an object can do  
 ___
+> **Getters**  
+> `Getters` are [methods](https://www.codecademy.com/resources/docs/javascript/methods) that get and return the internal properties of an object.  
+___
