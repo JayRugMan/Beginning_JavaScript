@@ -174,3 +174,6 @@ ___
 > **Getters**  
 > `Getters` are [methods](https://www.codecademy.com/resources/docs/javascript/methods) that get and return the internal properties of an object.  
 ___
+> **Setters**  
+> `Setters` [methods](https://www.codecademy.com/resources/docs/javascript/methods) reassign values of existing properties within an object.  
+___
